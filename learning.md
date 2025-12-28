@@ -3,3 +3,4 @@
 This repository tracks my daily learning automatically.
 
 - Day 1: Setup completed
+- Day 362: Practiced DSA / C++ / revision
