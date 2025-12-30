@@ -20,8 +20,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+         git config user.name "Vivekk078"
+          git config user.email "pantvivek098@gmail.com"
+
           git add learning.md
           git commit -m "Daily learning update" || echo "No changes"
           git push
