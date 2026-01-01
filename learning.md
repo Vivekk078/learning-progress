@@ -10,3 +10,4 @@ This repository tracks my daily learning automatically.
 - Day 364: Practiced DSA / C++ / revision
 - Day 364: Practiced DSA / C++ / revision
 - Day 365: Practiced DSA / C++ / revision
+- Day 001: Practiced DSA / C++ / revision
