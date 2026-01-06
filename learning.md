@@ -15,3 +15,4 @@ This repository tracks my daily learning automatically.
 - Day 003: Practiced DSA / C++ / revision
 - Day 004: Practiced DSA / C++ / revision
 - Day 005: Practiced DSA / C++ / revision
+- Day 006: Practiced DSA / C++ / revision
