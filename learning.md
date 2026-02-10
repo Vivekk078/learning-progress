@@ -50,3 +50,4 @@ This repository tracks my daily learning automatically.
 - Day 038: Practiced DSA / C++ / revision
 - Day 039: Practiced DSA / C++ / revision
 - Day 040: Practiced DSA / C++ / revision
+- Day 041: Practiced DSA / C++ / revision
