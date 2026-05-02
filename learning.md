@@ -130,3 +130,4 @@ This repository tracks my daily learning automatically.
 - Day 119: Practiced DSA / C++ / revision
 - Day 120: Practiced DSA / C++ / revision
 - Day 121: Practiced DSA / C++ / revision
+- Day 122: Practiced DSA / C++ / revision
