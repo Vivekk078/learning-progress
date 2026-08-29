@@ -248,3 +248,4 @@ This repository tracks my daily learning automatically.
 - Day 238: Practiced DSA / C++ / revision
 - Day 240: Practiced DSA / C++ / revision
 - Day 240: Practiced DSA / C++ / revision
+- Day 241: Practiced DSA / C++ / revision
