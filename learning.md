@@ -295,3 +295,4 @@ This repository tracks my daily learning automatically.
 - Day 285: Practiced DSA / C++ / revision
 - Day 286: Practiced DSA / C++ / revision
 - Day 287: Practiced DSA / C++ / revision
+- Day 288: Practiced DSA / C++ / revision
